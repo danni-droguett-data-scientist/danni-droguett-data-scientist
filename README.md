@@ -36,6 +36,8 @@ Vengo de 10 años en operaciones y logística, y hoy construyo soluciones de dat
 - **Ramoncita / Tentao — Copilotos de IA para restaurantes** · food cost, ingeniería de menú, mermas y asistente conversacional. ▶ [Ramoncita](https://ramoncita.vercel.app) · ▶ [Tentao](https://tentao-demo-chillan.vercel.app)
 - **Forecasting de demanda** · Holt-Winters y SARIMA con backtesting (MAPE), KPIs, Pareto 80/20 y Menu Engineering.
 
+**Más demos en vivo** — sistemas de gestión para pymes (retail, distribución, agendamiento): disponibles en mi [portafolio](https://daniel-droguett-ds.vercel.app).
+
 ---
 
 ### 🔗 Dónde encontrarme
@@ -45,5 +47,3 @@ Vengo de 10 años en operaciones y logística, y hoy construyo soluciones de dat
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dannidro@gmail.com)
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danni-droguett-data-scientist&show_icons=true&theme=github_dark)
