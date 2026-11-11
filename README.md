@@ -1,11 +1,15 @@
+![Daniel Droguett — Data Scientist](banner.svg)
+
 # Hola, soy Daniel Droguett 👋
 
 ### Data Scientist · De operaciones a datos
 
+![Open to work](https://img.shields.io/badge/Open_to_work-Data_Scientist-3fb950?style=flat)
+
 Vengo de 5 años en operaciones y logística, y hoy construyo soluciones de datos de extremo a extremo que las empresas usan a diario. Mi ventaja: entiendo el problema de negocio desde adentro y lo traduzco en decisiones.
 
 🔭 Construyo plataformas de datos, dashboards, modelos predictivos y agentes de IA — **en producción**.
-🌱 En formación como Data Scientist (TripleTen).
+🎓 **Data Scientist graduado del Bootcamp de TripleTen (2026).**
 📍 Chillán, Chile.
 
 ---
@@ -19,19 +23,17 @@ Vengo de 5 años en operaciones y logística, y hoy construyo soluciones de dato
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Datos & ML:** Python (pandas, NumPy, scikit-learn, statsmodels, Prophet) · SQL · PostgreSQL/Supabase · ETL (n8n)
-**IA aplicada:** Agentes LLM (tool-use) · MCP · Claude API
-**Web:** React · Next.js
+**IA aplicada:** Agentes LLM (tool-use) · MCP · Claude API — **Web:** React · Next.js
 
 ---
 
 ### 🚀 Proyectos destacados
 
-- **El Chillanejo — Plataforma de datos de extremo a extremo** · ERP → PostgreSQL con sync horario, 3 dashboards por rol, +132.000 ventas procesadas.
-- **Tienda online + bot de WhatsApp con IA** · Next.js + Mercado Pago + boleta SII automática; bot con agentes (Claude).
+- **El Chillanejo — Plataforma de datos de extremo a extremo** · ERP → PostgreSQL con sync horario, 3 dashboards por rol, +132.000 ventas procesadas. 🌐 [Tienda](https://elchillanejo.cl) · 💬 [Bot WhatsApp con IA](https://wa.me/56987472938)
+- **Ramoncita / Tentao — Copilotos de IA para restaurantes** · food cost, ingeniería de menú, mermas y asistente conversacional. ▶ [Ramoncita](https://ramoncita.vercel.app) · ▶ [Tentao](https://tentao-demo-chillan.vercel.app)
 - **Forecasting de demanda** · Holt-Winters y SARIMA con backtesting (MAPE), KPIs, Pareto 80/20 y Menu Engineering.
 
 ---
@@ -44,4 +46,4 @@ Vengo de 5 años en operaciones y logística, y hoy construyo soluciones de dato
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danni-droguett-data-scientist&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danni-droguett-data-scientist&show_icons=true&theme=github_dark)<img width="2560" height="640" alt="banner" src="https://github.com/user-attachments/assets/5ae3b61b-ca1d-4803-a8e6-03fce8a39b9d" />
