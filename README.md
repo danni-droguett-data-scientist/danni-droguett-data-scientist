@@ -43,7 +43,7 @@ Vengo de 10 años en operaciones y logística, y hoy construyo soluciones de dat
 ### 🔗 Dónde encontrarme
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://daniel-droguett-ds.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danni-droguett-b65a991b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-a-droguett-rozas-b65a991b4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dannidro@gmail.com)
 
 ---
