@@ -6,7 +6,7 @@
 
 ![Open to work](https://img.shields.io/badge/Open_to_work-Data_Scientist-3fb950?style=flat)
 
-Vengo de 5 años en operaciones y logística, y hoy construyo soluciones de datos de extremo a extremo que las empresas usan a diario. Mi ventaja: entiendo el problema de negocio desde adentro y lo traduzco en decisiones.
+Vengo de 10 años en operaciones y logística, y hoy construyo soluciones de datos de extremo a extremo que las empresas usan a diario. Mi ventaja: entiendo el problema de negocio desde adentro y lo traduzco en decisiones.
 
 🔭 Construyo plataformas de datos, dashboards, modelos predictivos y agentes de IA — **en producción**.
 🎓 **Data Scientist graduado del Bootcamp de TripleTen (2026).**
