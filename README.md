@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hola, soy Daniel Droguett 👋
 
-<!--
-**danni-droguett-data-scientist/danni-droguett-data-scientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist · De operaciones a datos
 
-Here are some ideas to get you started:
+Vengo de 5 años en operaciones y logística, y hoy construyo soluciones de datos de extremo a extremo que las empresas usan a diario. Mi ventaja: entiendo el problema de negocio desde adentro y lo traduzco en decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Construyo plataformas de datos, dashboards, modelos predictivos y agentes de IA — **en producción**.
+🌱 En formación como Data Scientist (TripleTen).
+📍 Chillán, Chile.
+
+---
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Datos & ML:** Python (pandas, NumPy, scikit-learn, statsmodels, Prophet) · SQL · PostgreSQL/Supabase · ETL (n8n)
+**IA aplicada:** Agentes LLM (tool-use) · MCP · Claude API
+**Web:** React · Next.js
+
+---
+
+### 🚀 Proyectos destacados
+
+- **El Chillanejo — Plataforma de datos de extremo a extremo** · ERP → PostgreSQL con sync horario, 3 dashboards por rol, +132.000 ventas procesadas.
+- **Tienda online + bot de WhatsApp con IA** · Next.js + Mercado Pago + boleta SII automática; bot con agentes (Claude).
+- **Forecasting de demanda** · Holt-Winters y SARIMA con backtesting (MAPE), KPIs, Pareto 80/20 y Menu Engineering.
+
+---
+
+### 🔗 Dónde encontrarme
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://daniel-droguett-ds.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danni-droguett-b65a991b4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dannidro@gmail.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danni-droguett-data-scientist&show_icons=true&theme=default)
