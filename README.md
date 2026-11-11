@@ -1,4 +1,4 @@
-![Daniel Droguett — Data Scientist](banner.svg)
+![Daniel Droguett — Data Scientist](banner.png)
 
 # Hola, soy Daniel Droguett 👋
 
