@@ -46,4 +46,4 @@ Vengo de 5 años en operaciones y logística, y hoy construyo soluciones de dato
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danni-droguett-data-scientist&show_icons=true&theme=github_dark)<img width="2560" height="640" alt="banner" src="https://github.com/user-attachments/assets/5ae3b61b-ca1d-4803-a8e6-03fce8a39b9d" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danni-droguett-data-scientist&show_icons=true&theme=github_dark)
